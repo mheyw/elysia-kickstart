@@ -9,6 +9,7 @@ const client = createClient({
   url: env.DB_URL,
   authToken: env.DB_AUTH_TOKEN,
 });
+
 export const db = drizzle(client, {
   logger: true,
   schema: { ...authSchemas, ...todoSchemas },

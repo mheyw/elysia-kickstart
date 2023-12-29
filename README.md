@@ -1,8 +1,8 @@
 ## elysia-kickstart
 
-Feature packed ElysiaJS boilerplate. Edge ready. Deploy with one click.
+ElysiaJS boilerplate.
 
-Taken inspiration from https://github.com/ethanniser/the-beth-stack.
+Taken inspiration from https://github.com/ethanniser/the-beth-stack & https://github.com/syhner/elysia-kickstart
 
 ## 📚 Features
 
